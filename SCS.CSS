@@ -1,0 +1,28 @@
+/*this is an external CSS*/
+h1{
+	font-family: Magazine Regular;
+	color: #6B5875;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	text-shadow: 2px 2px #D2AE90;
+	text-align: center;
+}
+p{
+	text-indent: 25px;
+}
+span{
+	text-decoration: underline;
+	font-variant: small-caps;
+} 
+
+body{
+	background-color: #EAE6E1;
+}
+img{
+	border-style: solid;
+	border-color: #6B5875;
+	float: right;
+}
+small{
+	color: #6B5875;
+}
